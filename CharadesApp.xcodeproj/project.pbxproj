@@ -13,6 +13,7 @@
 		AF87CCBF2BE07C530017B263 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = AF87CCBE2BE07C530017B263 /* Base */; };
 		AF87CCC12BE07C540017B263 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF87CCC02BE07C540017B263 /* Assets.xcassets */; };
 		AF87CCC42BE07C540017B263 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = AF87CCC32BE07C540017B263 /* Base */; };
+		AF87CCCC2BE9B6190017B263 /* CharadesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF87CCCB2BE9B6190017B263 /* CharadesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AF87CCC02BE07C540017B263 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF87CCC32BE07C540017B263 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF87CCC52BE07C540017B263 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF87CCCB2BE9B6190017B263 /* CharadesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharadesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AF87CCB72BE07C530017B263 /* AppDelegate.swift */,
 				AF87CCB92BE07C530017B263 /* SceneDelegate.swift */,
 				AF87CCBB2BE07C530017B263 /* ViewController.swift */,
+				AF87CCCB2BE9B6190017B263 /* CharadesViewController.swift */,
 				AF87CCBD2BE07C530017B263 /* Main.storyboard */,
 				AF87CCC02BE07C540017B263 /* Assets.xcassets */,
 				AF87CCC22BE07C540017B263 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF87CCBC2BE07C530017B263 /* ViewController.swift in Sources */,
+				AF87CCCC2BE9B6190017B263 /* CharadesViewController.swift in Sources */,
 				AF87CCB82BE07C530017B263 /* AppDelegate.swift in Sources */,
 				AF87CCBA2BE07C530017B263 /* SceneDelegate.swift in Sources */,
 			);
