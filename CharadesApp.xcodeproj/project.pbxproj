@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF7CE16B2BFC2BB50025FFA5 /* CategoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7CE16A2BFC2BB50025FFA5 /* CategoriesViewController.swift */; };
 		AF87CCB82BE07C530017B263 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF87CCB72BE07C530017B263 /* AppDelegate.swift */; };
 		AF87CCBA2BE07C530017B263 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF87CCB92BE07C530017B263 /* SceneDelegate.swift */; };
 		AF87CCBC2BE07C530017B263 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF87CCBB2BE07C530017B263 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF7CE16A2BFC2BB50025FFA5 /* CategoriesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesViewController.swift; sourceTree = "<group>"; };
 		AF87CCB42BE07C530017B263 /* CharadesApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CharadesApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF87CCB72BE07C530017B263 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AF87CCB92BE07C530017B263 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				AF87CCBB2BE07C530017B263 /* ViewController.swift */,
 				AF87CCCB2BE9B6190017B263 /* CharadesViewController.swift */,
 				AF87CCBD2BE07C530017B263 /* Main.storyboard */,
+				AF7CE16A2BFC2BB50025FFA5 /* CategoriesViewController.swift */,
 				AF87CCC02BE07C540017B263 /* Assets.xcassets */,
 				AF87CCC22BE07C540017B263 /* LaunchScreen.storyboard */,
 				AF87CCC52BE07C540017B263 /* Info.plist */,
@@ -145,6 +148,7 @@
 				AF87CCCC2BE9B6190017B263 /* CharadesViewController.swift in Sources */,
 				AF87CCB82BE07C530017B263 /* AppDelegate.swift in Sources */,
 				AF87CCBA2BE07C530017B263 /* SceneDelegate.swift in Sources */,
+				AF7CE16B2BFC2BB50025FFA5 /* CategoriesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
